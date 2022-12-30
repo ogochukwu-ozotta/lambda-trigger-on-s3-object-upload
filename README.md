@@ -2,6 +2,10 @@
 
 # Lambda trigger on s3 object upload (AWS Automation in Python)
 
+
+![lambdatrigger](https://user-images.githubusercontent.com/88560609/210118234-a8d4a692-e911-42b9-a3c3-cae3ca541645.png)
+
+
 ## Create s3 bucket for the input file and the output file
 
 ### To create an S3 bucket on the AWS Management Console, follow these steps:
