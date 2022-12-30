@@ -1,0 +1,1 @@
+# lambda-trigger-on-s3-object-upload
