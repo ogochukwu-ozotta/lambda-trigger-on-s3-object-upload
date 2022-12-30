@@ -82,3 +82,16 @@ Save changes
 ## Test the lambda trigger 
 Drag and drop .txt, .pdf, and .csv files in the bucket "mybucket123-input"
 
+
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/88560609/210117952-fd8a629f-2397-4e19-aea2-88fa214316d2.png">
+
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/88560609/210117965-5f0027af-8b52-4388-a6de-a8ef386a04e0.png">
+
+<img width="543" alt="image" src="https://user-images.githubusercontent.com/88560609/210117975-ce91b65e-e05e-4a01-af2b-33eb5f610d0f.png">
+
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/88560609/210117991-d6dc0165-29e0-4e31-b933-45b80725f840.png">
+
+<img width="535" alt="image" src="https://user-images.githubusercontent.com/88560609/210118012-4d2c9e63-53a0-474e-981d-0f04405e3a92.png">
+
+
+
