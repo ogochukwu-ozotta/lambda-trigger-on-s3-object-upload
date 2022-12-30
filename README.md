@@ -31,7 +31,7 @@ Repeat the same steps above to create the second bucket for output file name; "m
 6. Click on the "Deploy" button at the top of the page to deploy your function.
 
 
-Now, whenever the specified events occur on the specified S3 bucket, the Lambda function will be triggered and your code will be executed.
+
 
 
 
@@ -67,6 +67,10 @@ def lambda_handler(event, context):
         
 ```
 
+Click on Deploy
+
+
+
 ## Set Bucket Trigger 
 Select `mybucket123-input`
 Go to properties
@@ -78,6 +82,8 @@ Destination: Lambda Function
 Specify Lambda Function: choose from your lambda function 
 Lambda Function: lambda-trigger-test
 Save changes
+
+Now, whenever the specified events occur on the specified S3 bucket, the Lambda function will be triggered and your code will be executed.
 
 ## Test the lambda trigger 
 Drag and drop .txt, .pdf, and .csv files in the bucket "mybucket123-input"
@@ -93,5 +99,5 @@ Drag and drop .txt, .pdf, and .csv files in the bucket "mybucket123-input"
 
 <img width="535" alt="image" src="https://user-images.githubusercontent.com/88560609/210118012-4d2c9e63-53a0-474e-981d-0f04405e3a92.png">
 
-
+When done clean up all the resources created.
 
