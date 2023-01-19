@@ -104,4 +104,4 @@ Drag and drop .txt, .pdf, and .csv files in the bucket "mybucket123-input"
 <img width="535" alt="image" src="https://user-images.githubusercontent.com/88560609/210118012-4d2c9e63-53a0-474e-981d-0f04405e3a92.png">
 
 When done clean up all the resources created.
-
+Check [here](https://youtu.be/A6YQzXpu_zQ) for the demo
